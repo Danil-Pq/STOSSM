@@ -1,3 +1,5 @@
+Появились проблемы при установке Selenium. Код написал и оставил места где надо поменять данные. Скачаю Selenium в ближайшие время.
+
 import unittest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
